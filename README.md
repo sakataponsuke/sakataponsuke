@@ -3,4 +3,7 @@
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakataponsuke&theme=vue)
 
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakataponsuke&theme=vue)
+
+
 
