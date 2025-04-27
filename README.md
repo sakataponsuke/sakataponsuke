@@ -1,6 +1,6 @@
 # About Me
 印刷会社でインハウスWEBデザイナーとして働いています。ここでは、勉強用に模写したWEBサイト、LPのコード管理を行っています。
-<br>あああ
+<br>簡単なプロフィールを掲載しています。
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakataponsuke&theme=github)
 
