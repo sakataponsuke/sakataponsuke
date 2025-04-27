@@ -1,6 +1,5 @@
 # About Me
 約３年間の独学期間を経て、印刷会社でインハウスWEBデザイナーとしてキャリアを開始しました。転職活動のため簡単なプロフィールを掲載しています。
-<br>
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakataponsuke&theme=github)
 
