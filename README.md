@@ -5,3 +5,4 @@
 
 ![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakataponsuke&theme=vue)
 
+![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?sakataponsuke=sakataponsuke&theme=vue)
