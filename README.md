@@ -5,3 +5,4 @@
 
 ![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakataponsuke&theme=vue)
 
+![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakataponsuke&theme=vue)
