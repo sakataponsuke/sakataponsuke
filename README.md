@@ -1,5 +1,6 @@
 # About Me
-印刷会社でインハウスWEBデザイナーとして働いています。ここでは、勉強用に模写したWEBサイト、LPなどのコード管理を行っています。
+印刷会社でインハウスWEBデザイナーとして働いています。ここでは、勉強用に模写したWEBサイト、LPのコード管理を行っています。
+<br>あああ
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakataponsuke&theme=github)
 
@@ -9,15 +10,23 @@
 </div>
 
 ## Web Design
-* 
-* 
-* 
-![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma&theme=dark)
+* WEBサイト制作
+* ワイヤーフレーム制作
+* デザインカンプ制作
+* バナー制作
+* STUDIOでノーコードサイト制作<br>
+<br>![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma&theme=dark)
 
 ## Coding
-* 
-* 
-* 
-![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma&theme=dark)
+* WEBサイト制作
+* インタラクティブなサイト制作
+* WEBデザインの実装<br>
+<br>![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vscode&theme=dark)
+
+## The Other Tools
+* コード管理・保守
+* ソースプログラムの共有<br>
+<br>![My Skills](https://skillicons.dev/icons?i=wordpress,github&theme=dark)
+
 
 
