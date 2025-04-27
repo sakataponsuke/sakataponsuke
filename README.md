@@ -13,3 +13,11 @@
 * 
 * 
 ![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma&theme=dark)
+
+## Coding
+* 
+* 
+* 
+![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma&theme=dark)
+
+
